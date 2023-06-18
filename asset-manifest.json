@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/comfy-patio/static/css/main.aa18f73d.css",
+    "main.js": "/comfy-patio/static/js/main.76cb95fc.js",
+    "static/media/ocean.mp4": "/comfy-patio/static/media/ocean.157c34e75586b1ed172c.mp4",
+    "static/media/Crimea.mp4": "/comfy-patio/static/media/Crimea.42e1f8ecd806cdbd4588.mp4",
+    "static/media/mountains.mp4": "/comfy-patio/static/media/mountains.ed188bc8cd98c37d119d.mp4",
+    "static/media/travel_sm.png": "/comfy-patio/static/media/travel_sm.06c83c6ebde9286a5e3c.png",
+    "static/media/price.png": "/comfy-patio/static/media/price.00617a9e8bde7763a417.png",
+    "static/media/prices_sm.png": "/comfy-patio/static/media/prices_sm.e0a91082c91e0fbbad9c.png",
+    "static/media/room2.png": "/comfy-patio/static/media/room2.5a81fca7627e20f09b8c.png",
+    "static/media/room1.png": "/comfy-patio/static/media/room1.3748829b4fb3eed14a80.png",
+    "static/media/map.png": "/comfy-patio/static/media/map.eba03def56cb1c1aa275.png",
+    "static/media/map_sm.png": "/comfy-patio/static/media/map_sm.77eb98b2746f958274c8.png",
+    "static/media/service_sm.png": "/comfy-patio/static/media/service_sm.08bc77dfd83c85fde9a7.png",
+    "static/media/wifi.png": "/comfy-patio/static/media/wifi.29e2ee28f1d154ca9ecb.png",
+    "static/media/visit.png": "/comfy-patio/static/media/visit.7a4ea8a58147ea9687ea.png",
+    "static/media/visits.png": "/comfy-patio/static/media/visits.1f9506838ef2246dfd90.png",
+    "index.html": "/comfy-patio/index.html",
+    "main.aa18f73d.css.map": "/comfy-patio/static/css/main.aa18f73d.css.map",
+    "main.76cb95fc.js.map": "/comfy-patio/static/js/main.76cb95fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa18f73d.css",
+    "static/js/main.76cb95fc.js"
+  ]
+}
